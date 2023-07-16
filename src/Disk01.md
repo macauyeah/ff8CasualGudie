@@ -6,3 +6,6 @@ google
 
 twitter
 ![ok i guess](https://pbs.twimg.com/media/F1KQf9XagAAtfYE?format=jpg&name=large)
+
+twitter upload from switch
+![config](https://pbs.twimg.com/media/F1KjXvlaMAAxEgo.jpg)
