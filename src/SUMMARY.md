@@ -2,9 +2,9 @@
 
 [序](./README.md)
 
-# 主線
+# 主線 Disk 01
 
-- [Disk 01](./Disk01-01.md)
+- [Disk 01-01](./Disk01-01.md)
 
 ---
 
